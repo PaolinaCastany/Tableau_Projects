@@ -1,9 +1,4 @@
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
-
-
-This repository contains Tableau dashboards, visualizations, and data analysis projects I have created.
-
-# Music Store Online Sales Analysis
+# Tableau Project: Music Store Online Sales Analysis ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
 
 ![Music Sales dashboard](https://github.com/user-attachments/assets/6265ae0c-83c9-4234-a4c6-dadf886bb4c7)
 
